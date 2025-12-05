@@ -1,0 +1,7 @@
+{
+    "name": "Lootem Dev Container",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/src/app",
+    "shutdownAction": "stopCompose"
+}
